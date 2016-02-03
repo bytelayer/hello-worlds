@@ -8,6 +8,7 @@ Current languages:
     CoffeeScript
     Delphi
     FreePascal
+    Java
     JavaScript
     Lisp
     Python
