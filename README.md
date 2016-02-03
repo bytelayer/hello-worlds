@@ -4,3 +4,4 @@ Current languages:
 
     CoffeeScript
     Delphi
+    JavaScript
