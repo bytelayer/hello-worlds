@@ -2,6 +2,7 @@ This repository contains "Hello world!" examples in different languages
 
 Current languages:
 
+    Ada
     Bash
     C
     C++
