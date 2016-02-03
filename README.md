@@ -7,3 +7,4 @@ Current languages:
     Delphi
     FreePascal
     JavaScript
+    Python
