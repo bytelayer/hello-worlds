@@ -5,4 +5,5 @@ Current languages:
     C
     CoffeeScript
     Delphi
+    FreePascal
     JavaScript
