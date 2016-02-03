@@ -4,6 +4,7 @@ Current languages:
 
     Bash
     C
+    C++
     CoffeeScript
     Delphi
     FreePascal
