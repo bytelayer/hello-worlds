@@ -9,3 +9,4 @@ Current languages:
     FreePascal
     JavaScript
     Python
+    Ruby
