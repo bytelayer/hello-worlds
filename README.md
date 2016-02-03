@@ -9,5 +9,6 @@ Current languages:
     Delphi
     FreePascal
     JavaScript
+    Lisp
     Python
     Ruby
