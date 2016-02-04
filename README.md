@@ -15,3 +15,4 @@ Current languages:
     Lisp
     Python
     Ruby
+    Scala
