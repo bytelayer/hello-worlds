@@ -9,6 +9,7 @@ Current languages:
     CoffeeScript
     Delphi
     FreePascal
+    Haskell
     Java
     JavaScript
     Lisp
