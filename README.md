@@ -6,6 +6,7 @@ Current languages:
     Bash
     C
     C++
+    Clojure
     COBOL
     CoffeeScript
     Delphi
