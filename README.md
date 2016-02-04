@@ -14,6 +14,7 @@ Current languages:
     Java
     JavaScript
     Lisp
+    Perl
     Python
     Ruby
     Scala
